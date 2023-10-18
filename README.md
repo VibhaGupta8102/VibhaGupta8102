@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi there , Vibha Gupta this side <img src="https://media.giphy.com/media/eNotYhz6gsoNBUzsUa/giphy.gif" width="35px"></h1>
 
-<h2 align="center"><img src="https://media.giphy.com/media/RJzm826vu7WbJvBtxX/giphy.gif" width="30px"> Wed Developer <img src="https://media.giphy.com/media/Cnsktll42gt4TjiNhm/giphy.gif" width="90px"></h2>
+<h2 align="center"><img src="https://media.giphy.com/media/RJzm826vu7WbJvBtxX/giphy.gif" width="30px"> Web Developer <img src="https://media.giphy.com/media/Cnsktll42gt4TjiNhm/giphy.gif" width="90px"></h2>
 <!-- https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif  Laptop code-->
 <!-- https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif  </> -->
 <!-- https://media.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif  Code Lapy swap-->
