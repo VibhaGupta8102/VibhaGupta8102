@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="500" height="370" />
 
-- 🌱 I’m currently engaged in Wed development 
+- 🌱 I’m currently engaged in Web development 
 - 🔭 I’m currently working on my future
 - 💕 I love programming
 - 👨🏽‍💻 Focusing on enhancing my programming skills
